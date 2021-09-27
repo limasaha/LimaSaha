@@ -2620,8 +2620,8 @@ input, select, textarea {
 
 		.image.fit {
 			display: block;
-			margin: 2.5rem 0;
-			width: 100%;
+			margin: auto;
+			width: 50%;
 		}
 		.image.fitinmain {
 			display: block;
